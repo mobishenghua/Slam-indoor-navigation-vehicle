@@ -1,0 +1,2 @@
+3irobotics-delta2a-sdk-master
+-DCATKIN_DEVEL_PREFIX=/home/pi/delta_catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pi/delta_catkin_ws/install -G Unix Makefiles
